@@ -1,4 +1,4 @@
-# soignee
+# soignee (IFI6229.DT)
 
 ## Project description
 A marketplace for clothes.
@@ -23,14 +23,3 @@ A marketplace for clothes.
 * Admin view 
 * Follow a user
 * Notifications
-
-## How to use
-Navigate to docker
-
-Run:
-* docker-compose run --rm --no-deps backend-node install
-* docker-compose run --rm --no-deps frontend-react install
-* docker-compose up -d
-
-To stop run:
-* docker-compose stop
