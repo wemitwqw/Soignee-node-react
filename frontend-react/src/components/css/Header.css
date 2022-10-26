@@ -1,0 +1,23 @@
+.header{
+    background-color: #7f7f7f;
+    min-height: 15vmin;
+    width: 100vmax;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo{
+    margin-left: 50px;
+}
+
+.headerItems > * {
+    margin-right: 50px;
+    text-decoration: none;
+    color: #f7f7f7;
+
+}
+
+.search{
+    height: 25px;    
+}
